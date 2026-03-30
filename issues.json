@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Issue title: UI bug in login page",
+        "description": "Issue description: Login button not responding on click",
+        "status": "open"
+    },
+    {
+        "id": 2,
+        "title": "Documentation missing for API",
+        "description": "Issue description: No proper documentation for REST API endpoints",
+        "status": "open"
+    },
+    {
+        "id": 3,
+        "title": "Performance issue in data loading",
+        "description": "Application takes too long to load large datasets",
+        "status": "open"
+    }
+]

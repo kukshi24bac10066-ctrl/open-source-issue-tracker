@@ -1,2 +1,24 @@
-# open-source-issue-tracker
-A command-line based Python application to manage and track issues in open source projects. Users can add, view, search, and close issues, with data stored in a JSON file. This project demonstrates core concepts of issue tracking and open source collaboration.
+# Open Source Issue Tracker
+
+## 📌 Description
+A simple command-line Python application to manage and track issues in open source projects.
+
+## 🚀 Features
+- Add new issues
+- View all issues
+- Close issues
+- Search issues by keyword
+
+## 🛠️ Technologies
+- Python
+- JSON
+
+## ▶️ Run the Project
+
+python main.py
+
+## 📌 Example
+Add issue → View → Close → Search
+
+## 🎯 Purpose
+This project demonstrates how issue tracking works in open source environments.
